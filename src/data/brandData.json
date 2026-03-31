@@ -1,0 +1,141 @@
+{
+  "brandName": "Olympia Gym",
+  "tagline": "Muscle Factory",
+  "location": {
+    "street": "Canal Road",
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "lat": 31.4287,
+    "lng": 73.1116
+  },
+  "contact": {
+    "phone": "+92 300 0033232",
+    "whatsapp": "923000033232",
+    "email": "info@olympiagym.pk"
+  },
+  "hero": {
+    "headline": "Power to Change Lives",
+    "subheadline": "Faisalabad's elite muscle factory. High-performance equipment. Pro coaching. Unmatched energy.",
+    "ctaText": "Get a Free 1-Day Trial Pass",
+    "bgImage": "/yasir2.jpg"
+  },
+  "services": [
+    {
+      "id": "pt",
+      "title": "Personal Training",
+      "description": "1-on-1 coaching customized to your body type and specific fitness goals.",
+      "icon": "Dumbbell",
+      "category": "Training"
+    },
+    {
+      "id": "strength",
+      "title": "Strength & Conditioning",
+      "description": "Build raw power and endurance with our elite-grade strength programs.",
+      "icon": "Dumbbell",
+      "category": "Training"
+    },
+    {
+      "id": "cardio",
+      "title": "Cardio Blast",
+      "description": "High-intensity metabolic conditioning to torch fat and improve heart health.",
+      "icon": "Apple",
+      "category": "Training"
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition Plans",
+      "description": "Science-backed diet programs that fuel your workouts and maximize recovery.",
+      "icon": "Apple",
+      "category": "Wellness"
+    },
+    {
+      "id": "ifbb",
+      "title": "IFBB Coaching",
+      "description": "Pro-level prep for competitive bodybuilding and physique competitions.",
+      "icon": "Trophy",
+      "category": "Training"
+    },
+    {
+      "id": "yoga",
+      "title": "Yoga & Mobility",
+      "description": "Recover faster and improve flexibility with our guided stretching sessions.",
+      "icon": "Apple",
+      "category": "Wellness"
+    },
+    {
+      "id": "steam",
+      "title": "Steam & Sauna",
+      "description": "Premium recovery facility to detoxify and relax after a heavy session.",
+      "icon": "Trophy",
+      "category": "Wellness"
+    },
+    {
+      "id": "crossfit",
+      "title": "Crossfit",
+      "description": "Functional movements at high intensity for the ultimate fitness challenge.",
+      "icon": "Dumbbell",
+      "category": "Training"
+    }
+  ],
+  "membershipPlans": [
+    {
+      "id": "student",
+      "name": "Student Plan",
+      "price": "PKR 5,000",
+      "duration": "per month",
+      "features": [
+        "Full gym access",
+        "Locker facility",
+        "Diet guide",
+        "Valid Student ID required"
+      ],
+      "joiningFee": "PKR 2,000 Initial Fee",
+      "highlight": true,
+      "badge": "Student Discount"
+    },
+    {
+      "id": "standard",
+      "name": "Standard Access",
+      "price": "PKR 8,000",
+      "duration": "per month",
+      "features": [
+        "24/7 gym access",
+        "Locker facility",
+        "Steam & Sauna",
+        "Free 1st month diet plan"
+      ],
+      "joiningFee": "PKR 3,000 Initial Fee",
+      "highlight": false
+    },
+    {
+      "id": "premium",
+      "name": "Elite VIP",
+      "price": "PKR 15,000",
+      "duration": "per month",
+      "features": [
+        "Everything in Standard",
+        "Dedicated Personal Trainer",
+        "Custom weekly nutrition",
+        "Guaranteed transformation"
+      ],
+      "joiningFee": "0 Joining Fee",
+      "highlight": false
+    }
+  ],
+  "transformations": [
+    {
+      "id": "t1",
+      "name": "Ahmad R.",
+      "duration": "12 Weeks",
+      "beforeImage": "/before-1.png",
+      "afterImage": "/after-1.png",
+      "labelBefore": "Day 1: Out of Shape",
+      "labelAfter": "Week 12: Peak Fitness"
+    }
+  ],
+  "seo": {
+    "title": "Olympia Gym - Muscle Factory Faisalabad | Power to Change Lives",
+    "description": "Join Olympia Gym on Canal Road, Faisalabad. Find premium equipment, expert personal training, nutrition plans, and IFBB coaching. Claim your Free 1-Day Trial Pass.",
+    "url": "https://olympiagym.pk"
+  }
+}
